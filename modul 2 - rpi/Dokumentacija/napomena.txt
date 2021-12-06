@@ -1,0 +1,8 @@
+na detsktop staviti skriptu execute.sh
+pokrenuti je
+
+namjenjeno arducam RB ADU 95 kameri
+0V9281 1Mpix global shutter
+
+obavezno instalirati opencv
+driver za kameru v4l2 camera driver #sudo pip install v4l2
